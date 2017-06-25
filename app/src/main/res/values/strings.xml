@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShareDemo</string>
+
+    <!--替换自己的key-->
+    <string name="facebook_app_id">1964233977152758</string>
+
+    <!--替换自己的key-->
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">jFRczHoA7jym7X9DYOG6IMQab</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">X3hYoUjklg5c3QpLi6MPx487nmGSGjlMm77kTAWMeRJPt9Xmlu</string>
+
+</resources>
